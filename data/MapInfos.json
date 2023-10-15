@@ -1,5 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Seacoast","order":2,"parentId":0,"scrollX":1104,"scrollY":980},
-{"id":2,"expanded":false,"name":"First Town","order":1,"parentId":0,"scrollX":1088,"scrollY":1280}
+{"id":1,"expanded":true,"name":"Normal Town","order":2,"parentId":0,"scrollX":1779,"scrollY":979.5},
+{"id":2,"expanded":false,"name":"House 2","order":3,"parentId":1,"scrollX":1779,"scrollY":979.5},
+{"id":3,"expanded":true,"name":"Prologue","order":1,"parentId":0,"scrollX":1779,"scrollY":979.5},
+{"id":4,"expanded":false,"name":"Sanctuary","order":4,"parentId":1,"scrollX":1779,"scrollY":979.5}
 ]
